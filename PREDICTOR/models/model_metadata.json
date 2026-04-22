@@ -1,0 +1,1 @@
+{"metrics": {"accuracy": 75.32, "roc_auc": 0.8254, "cv_mean": 76.44, "cv_std": 3.19, "train_size": 614, "test_size": 154, "algorithm": "Random Forest (200 trees)"}, "feature_importances": {"Pregnancies": 0.0619, "Glucose": 0.3102, "BloodPressure": 0.0632, "SkinThickness": 0.0632, "Insulin": 0.1007, "BMI": 0.1748, "DiabetesPedigreeFunction": 0.1013, "Age": 0.1246}}
